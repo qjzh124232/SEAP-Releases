@@ -1,11 +1,11 @@
 {
   "payload": {
     "schema": 1,
-    "version": "0.1.0-alpha.29",
-    "bytes": 194285395,
-    "sha256": "51a41a4be86462621461a4ada678d278fbfa29e03e110a79da061bdb5675f2a9",
-    "url": "https://github.com/qjzh124232/SEAP-Releases/releases/download/v0.1.0-alpha.29/SEAP-0.1.0-alpha.29-Setup.exe",
-    "notes": "新增首次启动旧数据显式导入；空目标先预览再确认，原数据和配置保留，旧密钥需重新填写。既有数据升级仍先自动备份。"
+    "version": "0.1.0-alpha.30",
+    "bytes": 194290567,
+    "sha256": "757a0b83a4882104598693612971846014283626e5bfa780937415a5d21dedba",
+    "url": "https://github.com/qjzh124232/SEAP-Releases/releases/download/v0.1.0-alpha.30/SEAP-0.1.0-alpha.30-Setup.exe",
+    "notes": "修复已有版本导致安装器无界面退出；显示旧版本，默认原目录覆盖，先自动备份并保留数据配置。只有手动选择才更换目录。"
   },
-  "signature": "XGT/ajkis7kZFawK4PDIRYcNFk1LdThP+U3x4GrMPAFF7IkW8A7joMaxgQOOiCu+CYDptQ/SzF6LCD0USrBlCQ=="
+  "signature": "ZpiiTtEE4gOYPv1KHbmGazARRBimxdkGJdw7LQLE1CXlhgEOA/aDzOoHneYd2MN/ZTXwUgqK2kO7kcOFAD8ECQ=="
 }
