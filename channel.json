@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "schema": 1,
+    "version": "0.1.0-alpha.28",
+    "bytes": 194278017,
+    "sha256": "d31544097d1436279110f63f9e21a406ec376470ecbb59bccc9dc494e2d1819b",
+    "url": "https://github.com/qjzh124232/SEAP-Releases/releases/download/v0.1.0-alpha.28/SEAP-0.1.0-alpha.28-Setup.exe",
+    "notes": "启动检查新版并显示小圆点；手动升级前自动备份，保留项目、聊天、记忆、技能和模型配置。"
+  },
+  "signature": "ZmtDI1j0SPcIHOl+bjImL2WBKYcpCC2XQgmwC5Ghgol9zSsAF5U17PsN9bAXickIuPtwoJlElcHOl6xSYVthCQ=="
+}
