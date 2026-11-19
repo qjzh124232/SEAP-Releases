@@ -1,11 +1,11 @@
 {
   "payload": {
     "schema": 1,
-    "version": "0.1.0-alpha.31",
-    "bytes": 194315625,
-    "sha256": "047622beeae4690158e9a6bb3d8c3b05d4c27f6407d1ef593600f9dc3037fbd3",
-    "url": "https://github.com/qjzh124232/SEAP-Releases/releases/download/v0.1.0-alpha.31/SEAP-0.1.0-alpha.31-Setup.exe",
-    "notes": "更新入口显示当前版本；任务交付正文预览、整包下载和人工确认；修复轮询重复区域。独立离线桌面、断网Windows覆盖升级与重启保留通过。手动升级前自动备份，保留原数据配置。"
+    "version": "0.1.0-alpha.32",
+    "bytes": 194315818,
+    "sha256": "3d0068e897463716ffcedfd9e0ca5111f1e344852fa9718c145d938358aef1d8",
+    "url": "https://github.com/qjzh124232/SEAP-Releases/releases/download/v0.1.0-alpha.32/SEAP-0.1.0-alpha.32-Setup.exe",
+    "notes": "修复更新后工作台不可见，兼容alpha.30/31旧助手隐藏启动。86项回归、真实窗口参数对照和最终EXE断网Windows旧参数启动/正常退出通过。保留数据配置，手动升级前自动备份；静默安装完成后显示工作台。"
   },
-  "signature": "FHtcYNDMEn7FaqhhvMsMDXVMWERpllcgVFTeUgHFz0qoJ39IZ4h4GWz4VPglKudEjnIPhHyfynyipGaHW+FRCw=="
+  "signature": "spC9BVhsyLhpSPRGA5E5DMsPMUEnqGaQUGG6KTL3uYjWGulmnJLMrHlcLtkYqAjBjIRI/ftTDF9cQ1jGju9eAQ=="
 }
