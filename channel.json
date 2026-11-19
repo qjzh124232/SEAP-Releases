@@ -1,11 +1,11 @@
 {
   "payload": {
     "schema": 1,
-    "version": "0.1.0-alpha.30",
-    "bytes": 194290567,
-    "sha256": "757a0b83a4882104598693612971846014283626e5bfa780937415a5d21dedba",
-    "url": "https://github.com/qjzh124232/SEAP-Releases/releases/download/v0.1.0-alpha.30/SEAP-0.1.0-alpha.30-Setup.exe",
-    "notes": "修复已有版本导致安装器无界面退出；显示旧版本，默认原目录覆盖，先自动备份并保留数据配置。只有手动选择才更换目录。"
+    "version": "0.1.0-alpha.31",
+    "bytes": 194315625,
+    "sha256": "047622beeae4690158e9a6bb3d8c3b05d4c27f6407d1ef593600f9dc3037fbd3",
+    "url": "https://github.com/qjzh124232/SEAP-Releases/releases/download/v0.1.0-alpha.31/SEAP-0.1.0-alpha.31-Setup.exe",
+    "notes": "更新入口显示当前版本；任务交付正文预览、整包下载和人工确认；修复轮询重复区域。独立离线桌面、断网Windows覆盖升级与重启保留通过。手动升级前自动备份，保留原数据配置。"
   },
-  "signature": "ZpiiTtEE4gOYPv1KHbmGazARRBimxdkGJdw7LQLE1CXlhgEOA/aDzOoHneYd2MN/ZTXwUgqK2kO7kcOFAD8ECQ=="
+  "signature": "FHtcYNDMEn7FaqhhvMsMDXVMWERpllcgVFTeUgHFz0qoJ39IZ4h4GWz4VPglKudEjnIPhHyfynyipGaHW+FRCw=="
 }
